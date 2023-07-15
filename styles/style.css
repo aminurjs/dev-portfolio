@@ -343,6 +343,7 @@ footer{
     }
     .skills .item {
         padding: 10px;
+        text-align: center;
     }
     .resume_container {
         padding: 10px;
