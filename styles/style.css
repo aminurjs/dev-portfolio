@@ -344,6 +344,9 @@ footer{
     .skills .item {
         padding: 10px;
     }
+    .resume_container {
+        padding: 10px;
+    }
     .resume_content {
         gap: 50px;
         flex-direction: column;
